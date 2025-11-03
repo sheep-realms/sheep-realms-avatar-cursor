@@ -1,4 +1,4 @@
-# Sheep-realms 的像素艺术鼠标指针
+# Sheep-realms 的像素艺术头像鼠标指针
 
 基于 [Sheep-realms 的像素艺术头像表情包](https://github.com/sheep-realms/sheep-realms-avatar) 制作。
 
